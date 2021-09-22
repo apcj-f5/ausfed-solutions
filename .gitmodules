@@ -4,3 +4,6 @@
 [submodule "apps/hapi-fhir"]
 	path = apps/hapi-fhir
 	url = https://github.com/apcj-f5/hapi-fhir.git
+[submodule "waf"]
+	path = waf
+	url = https://github.com/apcj-f5/cloud-ingress-appsec.git
