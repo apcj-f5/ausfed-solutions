@@ -10,4 +10,4 @@ Collaborators: [@zhimmyd](https://github.com/zhimmyd), [@mmclarenf5](https://git
 
 - [Health API gateway for FHIR records built using DevSecOps pipeline](https://github.com/apcj-f5/hapi-fhir/tree/b004c8a04f1d0d1a0a75738fb820b7d64d08a3ab)
 
-- [WAF with L7 DoS for public cloud ingress](https://github.com/apcj-f5/cloud-ingress-appsec/tree/5fb9d61369163fafe019cfb1514c9da23ff34547)
+- [WAF with L7 DoS and Bot Mitigation for public cloud ingress](https://github.com/apcj-f5/cloud-ingress-appsec/tree/5fb9d61369163fafe019cfb1514c9da23ff34547)
